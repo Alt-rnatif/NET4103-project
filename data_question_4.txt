@@ -1,0 +1,176 @@
+Caltech36 with n = 500, frac = 0.05
+CN:  123
+J:  106
+AA:  124
+Reed98 with n = 500, frac = 0.05
+CN:  66
+J:  110
+AA:  71
+Haverford76 with n = 500, frac = 0.05
+CN:  114
+J:  121
+AA:  121
+Simmons81 with n = 500, frac = 0.05
+CN:  120
+J:  63
+AA:  126
+Swarthmore42 with n = 500, frac = 0.05
+CN:  125
+J:  191
+AA:  129
+Amherst41 with n = 500, frac = 0.05
+CN:  175
+J:  191
+AA:  180
+Bowdoin47 with n = 500, frac = 0.05
+CN:  144
+J:  167
+AA:  155
+Hamilton46 with n = 500, frac = 0.05
+CN:  144
+J:  187
+AA:  151
+Trinity100 with n = 500, frac = 0.05
+CN:  180
+J:  179
+AA:  186
+USFCA72 with n = 500, frac = 0.05
+CN:  123
+J:  145
+AA:  131
+Williams40 with n = 500, frac = 0.05
+CN:  162
+J:  171
+AA:  175
+Caltech36 with n = 500, frac = 0.1
+CN:  198
+J:  181
+AA:  201
+Reed98 with n = 500, frac = 0.1
+CN:  140
+J:  160
+AA:  147
+Haverford76 with n = 500, frac = 0.1
+CN:  207
+J:  228
+AA:  216
+Simmons81 with n = 500, frac = 0.1
+CN:  176
+J:  93
+AA:  185
+Swarthmore42 with n = 500, frac = 0.1
+CN:  203
+J:  284
+AA:  208
+Amherst41 with n = 500, frac = 0.1
+CN:  226
+J:  294
+AA:  240
+Bowdoin47 with n = 500, frac = 0.1
+CN:  243
+J:  247
+AA:  248
+Hamilton46 with n = 500, frac = 0.1
+CN:  225
+J:  270
+AA:  231
+Trinity100 with n = 500, frac = 0.1
+CN:  297
+J:  305
+AA:  297
+USFCA72 with n = 500, frac = 0.1
+CN:  235
+J:  229
+AA:  250
+Williams40 with n = 500, frac = 0.1
+CN:  250
+J:  269
+AA:  255
+Caltech36 with n = 500, frac = 0.15
+CN:  285
+J:  221
+AA:  295
+Reed98 with n = 500, frac = 0.15
+CN:  169
+J:  201
+AA:  178
+Haverford76 with n = 500, frac = 0.15
+CN:  264
+J:  262
+AA:  280
+Simmons81 with n = 500, frac = 0.15
+CN:  252
+J:  109
+AA:  265
+Swarthmore42 with n = 500, frac = 0.15
+CN:  249
+J:  317
+AA:  254
+Amherst41 with n = 500, frac = 0.15
+CN:  319
+J:  350
+AA:  322
+Bowdoin47 with n = 500, frac = 0.15
+CN:  301
+J:  299
+AA:  313
+Hamilton46 with n = 500, frac = 0.15
+CN:  282
+J:  306
+AA:  294
+Trinity100 with n = 500, frac = 0.15
+CN:  373
+J:  362
+AA:  376
+USFCA72 with n = 500, frac = 0.15
+CN:  288
+J:  260
+AA:  313
+Williams40 with n = 500, frac = 0.15
+CN:  307
+J:  320
+AA:  312
+Caltech36 with n = 500, frac = 0.2
+CN:  303
+J:  266
+AA:  312
+Reed98 with n = 500, frac = 0.2
+CN:  198
+J:  231
+AA:  208
+Haverford76 with n = 500, frac = 0.2
+CN:  307
+J:  280
+AA:  320
+Simmons81 with n = 500, frac = 0.2
+CN:  287
+J:  136
+AA:  291
+Swarthmore42 with n = 500, frac = 0.2
+CN:  292
+J:  345
+AA:  298
+Amherst41 with n = 500, frac = 0.2
+CN:  342
+J:  340
+AA:  353
+Bowdoin47 with n = 500, frac = 0.2
+CN:  336
+J:  330
+AA:  339
+Hamilton46 with n = 500, frac = 0.2
+CN:  331
+J:  336
+AA:  340
+Trinity100 with n = 500, frac = 0.2
+CN:  407
+J:  366
+AA:  399
+USFCA72 with n = 500, frac = 0.2
+CN:  342
+J:  293
+AA:  354
+Williams40 with n = 500, frac = 0.2
+CN:  361
+J:  326
+AA:  366
